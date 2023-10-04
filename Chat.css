@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.attuluri {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    height: 100vh;
+    background-size: cover;
+    font-size: 16px;
+}
+.main-heading {
+    text-align: center;
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "Roboto";
+    padding: 18px;
+}
+.para {
+    color: #ffffff;
+    text-align: right;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    height: 36px;
+}
+.paragraph {
+    color: #ffffff;
+    text-align: left;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    height: 36px;
+}
